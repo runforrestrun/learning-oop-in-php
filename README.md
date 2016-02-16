@@ -2,7 +2,7 @@
 
 Goal: Improving my OOP & PHP knowledge with free stuff. Yes. I like free stuff.
 
-Approach: Find 'good' free resources and learn. The good stands for quality tutorials & videos, well-written and clearly explained.
+Approach: Find 'good' free resources and learn. The 'good' stands for quality tutorials and videos; well-written and clearly explained.
 
 Rationale: I want to be a Symfony Jedi Master, or a Symfony Mr. Miyagi.  
 
