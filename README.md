@@ -178,6 +178,7 @@ Disclaimer: This filtered list touches upons domains which I personally like to 
 ### Refactoring
 *Refactoring tutorials.*
 
+* [Natural Course of Refactoring – a Refactoring Workflow](http://www.infoq.com/articles/natural-course-refactoring) Workflow
 * [Refactoring](http://sourcemaking.com/refactoring) - A complete tutorial guide about refactoring.
 * [Code Refactoring (&#9658;)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV) - A series about code refactoring.
 * [Clean Code Refactoring (&#9658;)](https://www.youtube.com/watch?v=3oVNbNaitRA) [NOTES](https://github.com/runforrestrun/learning-oop-in-php/blob/master/notes/clean-code-refactoring-jeff-carouth.md)
