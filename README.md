@@ -1,4 +1,4 @@
-# Improving OO in PHP with kickass tutorials & videos
+# Improving OOP in PHP with kickass tuts & vids
 
 Goal: Improving my OOP & PHP knowledge with free stuff. Yes. I like free stuff.
 
