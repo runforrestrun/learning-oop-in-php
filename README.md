@@ -4,7 +4,7 @@ Goal: Improving my OOP & PHP knowledge with free stuff. Yes. I like free stuff.
 
 Approach: Find 'good' free resources and learn. The 'good' stands for quality tutorials and videos; well-written and clearly explained.
 
-Rationale: I want to be a Symfony Jedi Master, or a Symfony Mr. Miyagi.  
+Rationale: I want to be a Symfony Jedi Master or Symfony Mr. Miyagi.  
 
 Way back (2001-2002) I've dealt with PHP 3 & 4 with non-to-partly OOP coverage, I had fun and pleasure doing it. However. Back then, it wasn't a real OOP language. Since a year and a half I started to develop in PHP again. Lots have changed. I've started developing with Symfony2 and lately with Symfony 3. Fun has come back! 
 
