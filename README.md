@@ -6,9 +6,9 @@ Approach: Find 'good' free resources and learn. The 'good' stands for quality tu
 
 Rationale: I want to be a Symfony Jedi Master or Symfony Mr. Miyagi.  
 
-Way back (2001-2002) I've dealt with PHP 3 & 4 with non-to-partly OOP coverage, I had fun and pleasure doing it. However. Back then, it wasn't a real OOP language. Since a year and a half I started to develop in PHP again. Lots have changed. I've started developing with Symfony2 and lately with Symfony 3. Fun has come back! 
+Way back (2001-2002) I've dealt with PHP 3 & 4 with non-to-partly OOP coverage, I had fun and pleasure doing it. However. Back then, it wasn't a real OOP language. But fast forward 10 years later, lots has changed! Since a year and a half I started to develop in PHP again with Symfony2 and lately with Symfony 3.
 
-Disclaimer: This filtered list contains subjects which I personally like to improve. I suggest to compile your own list by filtering out the irrelevant parts [here](https://github.com/marcelgsantos/learning-oop-in-php)
+Disclaimer: This filtered list touches upons domains which I personally like to improve. I suggest to compile your own list by filtering out the irrelevant parts [here](https://github.com/marcelgsantos/learning-oop-in-php)
 
 - [Tutorials](#tutorials)
     - [OOP Fundamentals](#oop-fundamentals)
