@@ -11,6 +11,7 @@ Way back (2001-2002) I've dealt with PHP 3 & 4 with non-to-partly OOP coverage, 
 Disclaimer: This filtered list touches upons domains which I personally like to improve. I suggest to compile your own list by filtering out the irrelevant parts [here](https://github.com/marcelgsantos/learning-oop-in-php)
 
 - [Tutorials](#tutorials)
+    - [General](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
     - [OOP Fundamentals](#oop-fundamentals)
     - [OOP Advanced](#oop-advanced)
     - [Object Oriented Design](#object-oriented-design)
