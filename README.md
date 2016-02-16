@@ -1,6 +1,6 @@
 # Improving OOP in PHP with kickass tuts & vids
 
-Goal: Improving my OOP & PHP knowledge with free stuff. Yes. I like free stuff.
+Goal: Improving my OOP & PHP knowledge with awesome videos and tutorials for free. Yes. I like free stuff.
 
 Approach: Find 'good' free resources and learn. The 'good' stands for quality tutorials and videos; well-written and clearly explained.
 
