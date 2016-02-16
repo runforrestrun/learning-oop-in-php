@@ -183,7 +183,7 @@ Disclaimer: This filtered list touches upons domains which I personally like to 
 
 * [Refactoring](http://sourcemaking.com/refactoring) - A complete tutorial guide about refactoring.
 * [Code Refactoring (&#9658;)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV) - A series about code refactoring.
-* [Clean Code Refactoring (&#9658;)](https://www.youtube.com/watch?v=3oVNbNaitRA) - A talk about refactoring and clean code in PHP.
+* [Clean Code Refactoring (&#9658;)](https://www.youtube.com/watch?v=3oVNbNaitRA) - (Guard Clauses)
 * [Refactoring Legacy Code](https://code.tutsplus.com/series/refactoring-legacy-code--cms-633) - A tutorial series about refactoring legacy code with examples.
 * [Detecting Code Smells (&#9658;$)](https://code.tutsplus.com/courses/detecting-code-smells) - A series about code smells in PHP.
 * [Techniques for Refactoring Code (&#9658;$)](https://code.tutsplus.com/courses/techniques-for-refactoring-code) - A series about refactoring code in PHP.
