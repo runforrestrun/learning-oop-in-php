@@ -1,4 +1,4 @@
-[Natural Course of Refactoring – a Refactoring Workflow](http://www.infoq.com/articles/natural-course-refactoring)
+[Natural Course of Refactoring – a Refactoring Workflow by Mariusz Sieraczkiewicz](http://www.infoq.com/articles/natural-course-refactoring)
 
 # Takeaways
 
@@ -45,6 +45,16 @@ When you need design patterns:
 * you have implemented many times similar algorithm
 * your requirements state that something may be done in a variety of ways (for example you have to support different file formats, data formats, protocols, third party systems etc.)
 * after you more understand the bigger picture, you can recognize better a nature of object interactions and patterns emerge
+
+It is very handy to know what kind you may be looking for:
+
+- data are built in many steps (Builder)
+- you domain object has its lifecycle and you can define some sort of state machine (State)
+- you need some form of caching data (Flyweight)
+- you need to flexibly enhance some behaviour (Decorator)
+- you want to hide the real object for some reasons (Proxy)
+- you have different variations on the same algorithm (Strategy)
+- and so on… 
 
 
 3. Introduce Flexibility - Introduce design patterns
