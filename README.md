@@ -38,11 +38,6 @@ Disclaimer: This filtered list touches upons domains which I personally like to 
 ### OOP Advanced
 *Object-oriented programming advanced tutorials.*
 
-* [What Are Abstract Classes?](http://culttt.com/2014/03/26/abstract-classes/) - A tutorial explaining abstract classes in PHP.
-* [Abstract Classes and Interfaces (&#9658;)](https://www.youtube.com/watch?v=AU07jJc_qMQ) - Introduction about abstract classes and interfaces.
-* [When should I code to an Interface?](http://culttt.com/2014/04/02/code-interface/) - A tutorial explaining what is and when to use interfaces in PHP.
-* [Understanding and Applying Polymorphism in PHP](https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-php--net-14362) - A tutorial explaining about abstract classes, interfaces and polymorphism in PHP.
-* [Inheritance and Polymorphism Concepts (&#9658;)](https://www.youtube.com/watch?v=A8Ztfuq96t4) - An introduction about inheritance and polymorphism.
 * [Beyond Inheritance](http://blog.ircmaxell.com/2013/11/beyond-inheritance.html) - A tutorial explaining what is inheritance and its types.
 * [The Clean Code Talks - Inheritance, Polymorphism, & Testing (&#9658;)](https://www.youtube.com/watch?v=4F72VULWFvc) - A tutorial about polymorphism and how it affects testing.
 * [PHP Namespaces Explained](http://daylerees.com/php-namespaces-explained) - A tutorial explaining how namespaces works in PHP.
