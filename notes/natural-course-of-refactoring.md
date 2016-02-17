@@ -14,16 +14,24 @@ Use TDD (Test Driven Development) - Red-Green-Refactor strategy.
 1. Understand
 ..1. Familiarize with the code (ask help if possible)
 ..2. Start readinng & comment with 
-....* //SMELL a smell code description
-....* // REFACTOR an idea for refactoring 
-....* // REFACTOR an idea for refactoring 
 ..3. Do some sort of scratch refactoring for the sake of understanding.
 ..4. Rename variables and name the conditional to express extent. 
 ![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/fig3.png)
 
+
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig4.png)
 1. Express Algorithm
 ⋅⋅* Unordered sub-list. 
+
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig5.png)
 2. Extract Responsibilies
 ..1. Ordered sub-list
+
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig6.png)
 3. Introduce Flexibility
+
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig7.png)
 4. Evolve Architecture
+
+
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig8.png)
