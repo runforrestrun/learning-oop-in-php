@@ -24,7 +24,7 @@ Disclaimer: This filtered list touches upons domains which I personally like to 
 
 ## Tutorials
 
-### testing
+### Testing
 * [Test-driven development: Write better code in less time by Evan Dorn](https://www.youtube.com/watch?v=HhwElTL-mdI)
 
 ### OOP Fundamentals
