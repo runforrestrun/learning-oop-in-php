@@ -2,20 +2,6 @@
 
 # Takeaways
 
-Code Should be understandable by humans. 
-
-Clean code is readable, cared for, efficient, extensible and simple.
-
-Write dirty code and succesively refine.
-
-
-# Practical Takeaways
-Guard Clauses. Reverse the logic. Throw/return early.
-
-Avoid too many nested if-else. Refactor into helper methods with descriptive method names.
-
-
-# Summary
 Makes distinction between "Everyday Refactoring" and "Strategic Refactoring"
 
 Important to asses business value. Is it worth refactoring?
@@ -25,7 +11,7 @@ Important to asses business value. Is it worth refactoring?
 Use TDD (Test Driven Development) - Red-Green-Refactor strategy.
 
 # Workflow
-0. Understand
+1. Understand
 ..1. Familiarize with the code (ask help if possible)
 ..2. Start readinng & comment with 
 ....* //SMELL a smell code description
