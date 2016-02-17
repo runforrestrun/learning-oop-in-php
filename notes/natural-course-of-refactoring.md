@@ -23,15 +23,15 @@ Use TDD (Test Driven Development) - Red-Green-Refactor strategy.
 1. Express Algorithm
 ⋅⋅* Unordered sub-list. 
 
-![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig5.png)
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/fig5.png)
 2. Extract Responsibilies
 ..1. Ordered sub-list
 
-![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig6.png)
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/3fig6.png)
 3. Introduce Flexibility
 
-![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig7.png)
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/2fig7.png)
 4. Evolve Architecture
 
 
-![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/1fig8.png)
+![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/fig8.png)
