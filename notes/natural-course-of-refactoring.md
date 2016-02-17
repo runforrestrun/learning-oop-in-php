@@ -1,8 +1,12 @@
 [Natural Course of Refactoring – a Refactoring Workflow by Mariusz Sieraczkiewicz](http://www.infoq.com/articles/natural-course-refactoring)
 
-# Takeaways
+# Summary & Takeaways
 
 Makes distinction between "Everyday Refactoring" and "Strategic Refactoring"
+
+Natural Course Refactoring has 5 steps. 
+Steps 0-2 falls in "Everyday Refactoring"
+Steps 3-4 falls in the "Strategic Refactoring"
 
 Important to asses business value. Is it worth refactoring?
 
@@ -58,7 +62,7 @@ It is very handy to know what kind you may be looking for:
 
 
 3. Introduce Flexibility - Introduce design patterns
-  1. Familiarize with the code (ask help if possible)
+  1. Mental tool - Use S.O.L.I.D
   2. Start readinng & comment with 
   3. Do some sort of scratch refactoring for the sake of understanding.
   4. Rename variables and name the conditional to express extent. 
@@ -66,10 +70,14 @@ It is very handy to know what kind you may be looking for:
 ![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/2fig7.png)
 
 4. Evolve Architecture
-  1. Familiarize with the code (ask help if possible)
-  2. Start readinng & comment with 
-  3. Do some sort of scratch refactoring for the sake of understanding.
-  4. Rename variables and name the conditional to express extent. 
+ Next level Software Development Architecture such as. 
+After some time some higher level patterns emerge:
+
+* You may notice that state machine is better suited for your solution (or its part)
+* You may notice that introducing event style of communication will give you expected system flexibility
+* You may want to extract a read-only subdomain according to CQRS so that expensive queries would be much faster
+* You may introduce or remove layer in you layered architecture
+* You may want to apply some Domain-Driven Design concepts
 
 
 ![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/fig8.png)
