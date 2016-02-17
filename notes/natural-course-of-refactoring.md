@@ -18,7 +18,7 @@ Use TDD (Test Driven Development) - Red-Green-Refactor strategy.
 
 ![alt tag](http://cdn.infoq.com/statics_s1_20160217-0123/resource/articles/natural-course-refactoring/en/resources/fig3.png)
 
-1. Understand
+0. Understand
   1. Familiarize with the code (ask help if possible)
   2. Start readinng & comment with 
   3. Do some sort of scratch refactoring for the sake of understanding.
