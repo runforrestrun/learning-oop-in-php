@@ -32,6 +32,11 @@ Disclaimer: This filtered list touches upons domains which I personally like to 
 
 ## Tutorials
 
+### Others
+* [good] [Value Objects in Symfony Forms](https://webmozart.io/blog/2015/09/09/value-objects-in-symfony-forms/)
+ 
+
+
 ### Testing
 * [excellent][Test-driven development: Write better code in less time by Evan Dorn](https://www.youtube.com/watch?v=HhwElTL-mdI)
 * [excellent] [Quickstart to testing your website with Behat, Mink, and Selenium - Lin Clark](https://www.youtube.com/watch?v=9cYhnTojaHU)
