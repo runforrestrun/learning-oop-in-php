@@ -1,12 +1,20 @@
-# Improving OOP in PHP with kickass tuts & vids
+# Become PHP Jedi Master
 
-Goal: Improving my OOP & PHP knowledge with awesome videos and tutorials for free. Yes. I like free stuff.
+Rationale: Becomming a PHP Jedi Master.
+
+Way back (2000-2002) I've dealt with PHP 3 & 4 with non-to-partly OOP coverage. It was fun but the language had its limitations. BUT fast-forward 15 years, PHP world evolved enormously. Lots of good PHP stuff. I've started to experiment with Symfony2/3 for a personal project and eventually got addicted to PHP. 
+
+Vision: Become a Jedi PHP Master
+
+Mission: Learn the way of the force; level up my architectural design & programming skills .
+
+Goals:
+- Master the force of 'Object Calisthenics' (Jeff Bay Jedi Master) 
+- Master the force of 'Extreme Defensive Programming in PHP' (Marco Pivett Jedi Master)
+- Master the force of 'Refactoring'(Martin Fowlers Jedi Master). 
 
 Approach: Find quality tutorials and videos; well-written and clearly explained.
 
-Rationale: I want to be a Symfony Jedi Master or Symfony Mr. Miyagi.  
-
-Way back (2001-2002) I've dealt with PHP 3 & 4 with non-to-partly OOP coverage, I had fun and pleasure doing it. However. Back then, it wasn't a real OOP language. But fast forward 10 years later, lots has changed! Since a year and a half I started to develop in PHP again with Symfony2 and lately with Symfony 3. Symfony really kicks ass. I really dig it.
 
 Disclaimer: This filtered list touches upons domains which I personally like to improve. I suggest to compile your own list by filtering out the irrelevant parts [here](https://github.com/marcelgsantos/learning-oop-in-php)
 
