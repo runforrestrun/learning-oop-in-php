@@ -34,7 +34,8 @@ Disclaimer: This filtered list touches upons domains which I personally like to 
 
 ### Others
 * [good] [Value Objects in Symfony Forms](https://webmozart.io/blog/2015/09/09/value-objects-in-symfony-forms/)
-* [excellent][Extremely defensive PHP #7](https://www.youtube.com/watch?v=vS0Nn_ncH-8) 
+* [excellent][Extremely defensive PHP](https://www.youtube.com/watch?v=vS0Nn_ncH-8)  Youtube
+* [excellent][Extreme defensive PHP](https://ocramius.github.io/extremely-defensive-php/#/) presentation
 
 
 ### Testing
